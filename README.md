@@ -1,8 +1,8 @@
 # demo-webrtc
 
 ``` shell
-npm install  //å®‰è£…ä¾èµ–
+npm install  //°²×°ÒÀÀµ
 
-npm run serve //æœ¬åœ°å¼€å¯æœåŠ¡ ç«¯å£é»˜è®¤5000
+npm run serve //±¾µØ¿ªÆô·şÎñ ¶Ë¿ÚÄ¬ÈÏ5000
 
 ```
