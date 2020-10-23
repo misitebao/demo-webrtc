@@ -1,8 +1,8 @@
 # demo-webrtc
 
 ``` shell
-npm install  //安装依赖
+npm install  //瀹夎渚濊禆
 
-npm run serve //本地开启服务 端口默认5000
+npm run serve //杩愯椤甸潰 榛樿绔彛 5000
 
 ```
